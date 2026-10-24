@@ -1,13 +1,13 @@
 # =========================================================================
 # Unity - Fichiers temporaires, caches et builds
 # =========================================================================
-/[L]ibrary/
-/[T]emp/
-/[O]bj/
-/[B]uild/
-/[B]uilds/
-/[L]ogs/
-/[U]serSettings/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
 
 # Fichiers de configuration de build liés à l'éditeur memory-only
 MemoryCaptures/
