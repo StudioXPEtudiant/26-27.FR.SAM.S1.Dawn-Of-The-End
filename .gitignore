@@ -1,0 +1,48 @@
+# =========================================================================
+# Unity - Fichiers temporaires, caches et builds
+# =========================================================================
+/[L]ibrary/
+/[T]emp/
+/[O]bj/
+/[B]uild/
+/[B]uilds/
+/[L]ogs/
+/[U]serSettings/
+
+# Fichiers de configuration de build liés à l'éditeur memory-only
+MemoryCaptures/
+Recording/
+
+# Ne pas ignorer les fichiers d'onglets de configuration de la structure du projet
+!/[P]rojectSettings/ProjectVersion.txt
+
+# =========================================================================
+# Éditeurs de code (Visual Studio / Rider / VS Code)
+# =========================================================================
+# Fichiers de solution et de projet générés automatiquement
+/*.csproj
+/*.sln
+/*.suo
+/*.user
+/*.userosscache
+/*.sln.docstates
+
+# Dossiers spécifiques aux IDE
+.vs/
+.idea/
+.vscode/
+*.CrashLogs
+
+# =========================================================================
+# Fichiers du système d'exploitation
+# =========================================================================
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
