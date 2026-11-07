@@ -20,12 +20,12 @@ Recording/
 # Éditeurs de code (Visual Studio / Rider / VS Code)
 # =========================================================================
 # Fichiers de solution et de projet générés automatiquement
-/*.csproj
-/*.sln
-/*.suo
-/*.user
-/*.userosscache
-/*.sln.docstates
+*.csproj
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
 # Dossiers spécifiques aux IDE
 .vs/
